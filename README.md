@@ -1,4 +1,3 @@
-
 # Election - DAPP Tutorial
 Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 
@@ -17,7 +16,7 @@ Install these prerequisites:
 NOTE: You need to have Metamask Installed, configured and unlocked for this to work. Be sure to import a few accounts to play with. 
 
 ## Step 1. Clone the project
-`git clone https://github.com/dappuniversity/election`
+`git clone https://github.com/jmbanda/CSC4890_election_dapp`
 
 ## Step 2. Install dependencies
 ```
@@ -35,3 +34,4 @@ You must migrate the election smart contract each time your restart ganache.
 ## Step 6. Run the Front End Application
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
+
